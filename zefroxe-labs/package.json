@@ -1,7 +1,6 @@
 {
-  "name": "@kkbmbnk/zefroxe-labs",
-  "version": "1.1.5",
-  "private": false,
+  "name": "zefroxe-labs",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -16,8 +15,12 @@
     "react": "^18",
     "react-dom": "^18",
     "reaze": "^1.1.4",
+    "seven-bit": "^1.1.5",
+    "shrimp-bit": "^1.1.5",
     "tea.yaml": "^1.0.0",
-    "zefroxe-labs": "^1.1.3"
+    "zefroxe-labs": "^1.1.3",
+    "zefroxea": "^1.1.8",
+    "zefroxlabs": "^1.2.0"
   },
   "devDependencies": {
     "@types/node": "^20",
